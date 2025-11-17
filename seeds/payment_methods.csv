@@ -1,0 +1,6 @@
+payment_method,description,category
+credit_card,Standard credit card payment,card
+bank_transfer,Payment made through bank transfer,bank
+coupon,Discount coupon applied,discount
+gift_card,Payment made with a gift card,card
+cash,Direct cash payment,cash

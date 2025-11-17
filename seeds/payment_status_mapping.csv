@@ -1,0 +1,5 @@
+status,description
+success,Payment completed successfully
+fail,Payment failed
+refunded,Payment refunded
+pending,Payment pending
